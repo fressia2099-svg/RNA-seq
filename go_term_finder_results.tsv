@@ -1,0 +1,81 @@
+GOID	GO Term	Aspect	Query Count	Query Total	Query %	Background Count	Background Total	Background %	Fold Enrichment	P-value	FDR	Genes
+GO:0006525	arginine metabolic process	Biological Process	8	585	1.37%	9	6672	0.1349%	10.14	2.78e-08	2.22e-06	ARG5,6, ARG3, ECM42, ARG8, ARG1, ARG4, CAR1, CAR2
+GO:0006526	L-arginine biosynthetic process	Biological Process	6	585	1.03%	6	6672	0.0899%	11.41	4.44e-07	1.78e-05	ARG5,6, ARG3, ECM42, ARG8, ARG1, ARG4
+GO:0009084	L-glutamine family amino acid biosynthetic process	Biological Process	6	585	1.03%	7	6672	0.1049%	9.78	2.88e-06	7.67e-05	ARG5,6, ARG3, ECM42, ARG8, ARG1, ARG4
+GO:0055085	transmembrane transport	Biological Process	46	585	7.86%	288	6672	4.3165%	1.82	3.74e-05	7.49e-04	KAR2, HUT1, HIP1, ALP1, AAP1, HGT12, MAL31, HGT7, HGT19, HGT20, HGT1, HXT5, ITR1, HGT13, HGT18, FCY2, TPO3, TPO5, CR_01220W_A, HNM1, CTR1, C3_05380W_A, GPT1, CSA2, JEN1, C3_00390W_A, MUP1, C2_09590C_A, DAL7, DAL9, ENA2, C2_02580W_A, C7_01510W_A, OPT3, XUT1, CDR3, C7_00630C_A, SFC1, GNP3, DAL4, FCY24, CR_03580C_A, FUR4, C4_06140C_A, C2_02570W_A, ZRT2
+GO:0008643	carbohydrate transport	Biological Process	10	585	1.71%	27	6672	0.4047%	4.22	5.30e-05	8.48e-04	HGT12, MAL31, HGT7, HGT19, HGT20, HGT1, HXT5, ITR1, HGT13, HGT18
+GO:1904659	D-glucose transmembrane transport	Biological Process	8	585	1.37%	19	6672	0.2848%	4.80	1.05e-04	1.40e-03	HGT12, HGT7, HGT19, HGT20, HGT1, ITR1, HGT13, HGT18
+GO:0034219	carbohydrate transmembrane transport	Biological Process	9	585	1.54%	25	6672	0.3747%	4.11	1.63e-04	1.45e-03	HGT12, HGT7, HGT19, HGT20, HGT1, HXT5, ITR1, HGT13, HGT18
+GO:0015749	monosaccharide transmembrane transport	Biological Process	9	585	1.54%	25	6672	0.3747%	4.11	1.63e-04	1.45e-03	HGT12, HGT7, HGT19, HGT20, HGT1, HXT5, ITR1, HGT13, HGT18
+GO:0008645	hexose transmembrane transport	Biological Process	9	585	1.54%	25	6672	0.3747%	4.11	1.63e-04	1.45e-03	HGT12, HGT7, HGT19, HGT20, HGT1, HXT5, ITR1, HGT13, HGT18
+GO:0052031	symbiont-mediated perturbation of host defense response	Biological Process	11	585	1.88%	41	6672	0.6145%	3.06	5.90e-04	4.29e-03	GPR1, PRA1, SAP6, SAP4, SAP3, MET6, HSP70, CPH1, CDC19, SOD4, CMI1
+GO:0052553	symbiont-mediated perturbation of host immune response	Biological Process	11	585	1.88%	41	6672	0.6145%	3.06	5.90e-04	4.29e-03	GPR1, PRA1, SAP6, SAP4, SAP3, MET6, HSP70, CPH1, CDC19, SOD4, CMI1
+GO:0035821	modulation of process of another organism	Biological Process	11	585	1.88%	42	6672	0.6295%	2.99	7.37e-04	4.53e-03	GPR1, PRA1, SAP6, SAP4, SAP3, MET6, HSP70, CPH1, CDC19, SOD4, CMI1
+GO:0044003	symbiont-mediated perturbation of host process	Biological Process	11	585	1.88%	42	6672	0.6295%	2.99	7.37e-04	4.53e-03	GPR1, PRA1, SAP6, SAP4, SAP3, MET6, HSP70, CPH1, CDC19, SOD4, CMI1
+GO:0044419	biological process involved in interspecies interaction between organisms	Biological Process	48	585	8.21%	347	6672	5.2008%	1.58	8.61e-04	4.92e-03	GPR1, DAC1, GNA1, PRA1, TEC1, SAP6, SAP4, AAF1, ALS1, SAP3, ENG1, MET6, SRR1, HSP70, SSA2, PMT1, HSP21, RBT4, HEM3, PST2, CEK1, GSC1, CHS1, UME6, TYE7, FAD2, KER1, PGA26, DSE1, ASH1, RBE1, CRG1, PMT4, BRG1, PST1, CPH1, SLR1, HSP104, HSP90, WOR2, NGS1, WOR4, CHT2, CDC19, DEF1, SOD4, C6_00920W_A, CMI1
+GO:0006457	protein folding	Biological Process	8	585	1.37%	27	6672	0.4047%	3.38	1.64e-03	8.77e-03	KAR2, HSP104, HSP90, JEM1, MDJ1, C6_01460C_A, SSC1, CR_08420W_A
+GO:0036178	filamentous growth of a population of unicellular organisms in response to neutral pH	Biological Process	13	585	2.22%	61	6672	0.9143%	2.43	2.02e-03	8.89e-03	CCN1, ALS1, PGA59, SRR1, UME6, ASH1, PMT4, HGT12, HGT1, PTC8, OLE1, RBR1, PMT2
+GO:0061572	actin filament bundle organization	Biological Process	3	585	0.51%	4	6672	0.0600%	8.55	2.51e-03	8.89e-03	MYO2, ABP2, IQG1
+GO:0015851	nucleobase transport	Biological Process	3	585	0.51%	4	6672	0.0600%	8.55	2.51e-03	8.89e-03	XUT1, DAL4, FUR4
+GO:0006101	citrate metabolic process	Biological Process	3	585	0.51%	4	6672	0.0600%	8.55	2.51e-03	8.89e-03	PCK1, MDH1, DEF1
+GO:0005975	carbohydrate metabolic process	Biological Process	24	585	4.10%	152	6672	2.2782%	1.80	3.16e-03	8.89e-03	RBK1, CAG1, ENG1, PCK1, NTH1, BMT1, GSC1, CPH1, NGS1, CHT2, CDC19, CHT1, AMS1, CRH11, CHT3, SCW11, ECS1, CR_06030C_A, SCW4, ZCF7, FBP1, C1_11080W_A, GAC1, C5_04940W_A
+GO:0044403	biological process involved in symbiotic interaction	Biological Process	23	585	3.93%	145	6672	2.1733%	1.81	3.59e-03	8.89e-03	GPR1, PRA1, TEC1, SAP6, SAP4, AAF1, ALS1, SAP3, ENG1, MET6, HSP70, SSA2, PMT1, CEK1, BRG1, CPH1, WOR2, NGS1, WOR4, CHT2, CDC19, SOD4, CMI1
+GO:0006493	protein O-linked glycosylation	Biological Process	5	585	0.85%	13	6672	0.1948%	4.39	3.61e-03	8.89e-03	BMT1, PMT1, PMT4, PMT2, DPM1
+GO:0036176	response to neutral pH	Biological Process	13	585	2.22%	65	6672	0.9742%	2.28	3.65e-03	8.89e-03	CCN1, ALS1, PGA59, SRR1, UME6, ASH1, PMT4, HGT12, HGT1, PTC8, OLE1, RBR1, PMT2
+GO:1901605	alpha-amino acid metabolic process	Biological Process	14	585	2.39%	73	6672	1.0941%	2.19	3.89e-03	8.89e-03	CPA1, UGA1, ARG5,6, ARG3, ECM42, ARG8, ARG1, ARG4, CAR1, CAR2, LYS22, GAD1, FDH1, MET13
+GO:0051984	positive regulation of chromosome segregation	Biological Process	4	585	0.68%	9	6672	0.1349%	5.07	5.15e-03	8.89e-03	CDC14, CDC5, CLB2, DBF2
+GO:0009308	amine metabolic process	Biological Process	4	585	0.68%	9	6672	0.1349%	5.07	5.15e-03	8.89e-03	AMO1, GBU1, AMO2, AGT1
+GO:0034605	cellular response to heat	Biological Process	10	585	1.71%	46	6672	0.6894%	2.48	5.58e-03	8.89e-03	GPR1, IML3, MYO2, MET6, HSP70, HSP21, HSP104, HSP90, HGT1, PCL1
+GO:0140429	positive regulation of mitotic sister chromatid biorientation	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	CDC14, CDC5, CLB2
+GO:0140273	repair of mitotic kinetochore microtubule attachment defect	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	CDC14, CDC5, CLB2
+GO:0140274	repair of kinetochore microtubule attachment defect	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	CDC14, CDC5, CLB2
+GO:0072414	response to mitotic cell cycle checkpoint signaling	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	CDC14, CDC5, CLB2
+GO:0072417	response to spindle checkpoint signaling	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	CDC14, CDC5, CLB2
+GO:0072476	response to mitotic spindle checkpoint signaling	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	CDC14, CDC5, CLB2
+GO:0072479	response to mitotic cell cycle spindle assembly checkpoint signaling	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	CDC14, CDC5, CLB2
+GO:0072485	response to spindle assembly checkpoint signaling	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	CDC14, CDC5, CLB2
+GO:0090529	cell septum assembly	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	GSC1, CHS1, C1_06700W_A
+GO:0006915	apoptotic process	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	BIR1, MCA1, SRR1
+GO:0012501	programmed cell death	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	BIR1, MCA1, SRR1
+GO:0008219	cell death	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	BIR1, MCA1, SRR1
+GO:0072350	tricarboxylic acid metabolic process	Biological Process	3	585	0.51%	5	6672	0.0749%	6.84	5.86e-03	8.89e-03	PCK1, MDH1, DEF1
+GO:0050896	response to stimulus	Biological Process	112	585	19.15%	1027	6672	15.3927%	1.24	5.94e-03	8.89e-03	CDC14, GIN1, HHT2, HOF1, FGR17, CAG1, GPR1, CCN1, IML3, KAR2, CAR2, DAC1, RAS2, MYO2, PRA1, TEC1, SAP4, ALS1, AOX2, AMO2, MET6, PGA59, MCA1, SRR1, HSP70, SSA2, PMT1, HSP21, RBT4, PST2, CEK1, GSC1, UME6, TYE7, KER1, PGA26, DSE1, ASH1, PMT4, BRG1, PST1, CPH1, HSP104, HSP90, NGS1, CHT2, CR_00130C_A, CDC19, HGT12, HGT7, HGT1, DEF1, SHA3, STE4, C3_07670W_A, CDC5, PTC8, FGR23, FGR29, KIP4, DCK1, ZCF7, FGR41, FCY2, CEK2, RTA4, CIP1, PCL1, FBP1, NRM1, OLE1, RBR1, ZTA1, AHP2, GST2, CCP1, C2_02220C_A, HAC1, SOD4, PIR1, FMO1, C7_01170C_A, TPO3, GCY1, PMT2, ADO1, CR_02800C_A, C1_14190C_A, CLB2, TPO5, GDE1, ISY1, PGA23, FET31, CR_01220W_A, HNM1, DBF2, DED1, YSY6, ZCF16, HAL9, C2_05770W_A, HMX1, DHH1, OPT3, RAD16, CDR3, SOD3, C7_03850W_A, CR_07470W_A, C4_06140C_A, C2_02570W_A
+GO:0045229	external encapsulating structure organization	Biological Process	19	585	3.25%	118	6672	1.7686%	1.84	6.59e-03	8.89e-03	ENG1, PGA59, PMT1, CEK1, GSC1, KER1, PGA26, DSE1, PMT4, CPH1, CRH11, CHT3, DCK1, FGR41, HAC1, PIR1, PGA13, LMO1, CWP419
+GO:0071555	cell wall organization	Biological Process	19	585	3.25%	118	6672	1.7686%	1.84	6.59e-03	8.89e-03	ENG1, PGA59, PMT1, CEK1, GSC1, KER1, PGA26, DSE1, PMT4, CPH1, CRH11, CHT3, DCK1, FGR41, HAC1, PIR1, PGA13, LMO1, CWP419
+GO:0019752	carboxylic acid metabolic process	Biological Process	24	585	4.10%	162	6672	2.4281%	1.69	7.17e-03	8.89e-03	CPA1, UGA11, UGA1, ARG5,6, ARG3, ECM42, ARG8, ARG1, ARG4, CAR1, CAR2, LYS22, PCK1, MDH1, FAD2, CDC19, GAD1, DEF1, OLE1, POX1, ACC1, FDH1, FTH1, MET13
+GO:0045916	negative regulation of complement activation	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PRA1, HGT1
+GO:0002683	negative regulation of immune system process	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PRA1, HGT1
+GO:0050776	regulation of immune response	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PRA1, HGT1
+GO:0050777	negative regulation of immune response	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PRA1, HGT1
+GO:0002697	regulation of immune effector process	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PRA1, HGT1
+GO:0002698	negative regulation of immune effector process	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PRA1, HGT1
+GO:0002920	regulation of humoral immune response	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PRA1, HGT1
+GO:0002921	negative regulation of humoral immune response	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PRA1, HGT1
+GO:0030449	regulation of complement activation	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PRA1, HGT1
+GO:0048609	multicellular organismal reproductive process	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	TEC1, CPH1
+GO:0019098	reproductive behavior	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	TEC1, CPH1
+GO:0007617	mating behavior	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	TEC1, CPH1
+GO:0032501	multicellular organismal process	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	TEC1, CPH1
+GO:0007610	behavior	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	TEC1, CPH1
+GO:0070650	actin filament bundle distribution	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	MYO2, IQG1
+GO:0070370	cellular heat acclimation	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	HSP21, HSP104
+GO:0010286	heat acclimation	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	HSP21, HSP104
+GO:0045861	negative regulation of proteolysis	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PMT1, PMT4
+GO:0030162	regulation of proteolysis	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	PMT1, PMT4
+GO:1902846	positive regulation of mitotic spindle elongation	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	CDC14, DBF2
+GO:0098721	uracil import across plasma membrane	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	DAL4, FUR4
+GO:1904082	pyrimidine nucleobase transmembrane transport	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	DAL4, FUR4
+GO:1903791	uracil transmembrane transport	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	DAL4, FUR4
+GO:0015857	uracil transport	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	DAL4, FUR4
+GO:0072531	pyrimidine-containing compound transmembrane transport	Biological Process	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	8.89e-03	DAL4, FUR4
+GO:0010971	positive regulation of G2/M transition of mitotic cell cycle	Biological Process	4	585	0.68%	10	6672	0.1499%	4.56	8.00e-03	8.89e-03	C7_03480W_A, CDC5, CLB2, DBF2
+GO:0009719	response to endogenous stimulus	Biological Process	4	585	0.68%	10	6672	0.1499%	4.56	8.00e-03	8.89e-03	CDC14, HSP90, CDC5, CLB2
+GO:0071495	cellular response to endogenous stimulus	Biological Process	4	585	0.68%	10	6672	0.1499%	4.56	8.00e-03	8.89e-03	CDC14, HSP90, CDC5, CLB2
+GO:0043436	oxoacid metabolic process	Biological Process	24	585	4.10%	164	6672	2.4580%	1.67	8.34e-03	9.02e-03	CPA1, UGA11, UGA1, ARG5,6, ARG3, ECM42, ARG8, ARG1, ARG4, CAR1, CAR2, LYS22, PCK1, MDH1, FAD2, CDC19, GAD1, DEF1, OLE1, POX1, ACC1, FDH1, FTH1, MET13
+GO:0006082	organic acid metabolic process	Biological Process	24	585	4.10%	164	6672	2.4580%	1.67	8.34e-03	9.02e-03	CPA1, UGA11, UGA1, ARG5,6, ARG3, ECM42, ARG8, ARG1, ARG4, CAR1, CAR2, LYS22, PCK1, MDH1, FAD2, CDC19, GAD1, DEF1, OLE1, POX1, ACC1, FDH1, FTH1, MET13
+GO:0044182	filamentous growth of a population of unicellular organisms	Biological Process	54	585	9.23%	447	6672	6.6996%	1.38	8.50e-03	9.07e-03	CDC14, FGR17, GPR1, CCN1, DAC1, RAS2, MYO2, TEC1, ALS1, PGA59, SRR1, PMT1, HSP21, CEK1, UME6, TYE7, KER1, DSE1, ASH1, PMT4, BRG1, CPH1, HSP90, WOR2, CHT2, CDC19, CHT1, HGT12, HGT1, DEF1, SHA3, C3_07670W_A, CDC5, PTC8, FGR23, FGR29, KIP4, DCK1, ZCF7, FGR41, FCY2, CEK2, RTA4, PCL1, OLE1, RBR1, PMT2, PGA13, KEL1, LMO1, ZCF16, HAL9, C2_05770W_A, ECM22
+GO:0009408	response to heat	Biological Process	10	585	1.71%	49	6672	0.7344%	2.33	8.87e-03	9.22e-03	GPR1, IML3, MYO2, MET6, HSP70, HSP21, HSP104, HSP90, HGT1, PCL1
+GO:0000910	cytokinesis	Biological Process	10	585	1.71%	49	6672	0.7344%	2.33	8.87e-03	9.22e-03	CDC14, HOF1, MYO2, IQG1, GSC1, CHS1, CHT3, CYK3, DBF2, C1_06700W_A
+GO:0009266	response to temperature stimulus	Biological Process	11	585	1.88%	57	6672	0.8543%	2.20	9.53e-03	9.77e-03	GPR1, IML3, MYO2, MET6, HSP70, HSP21, HSP104, HSP90, HGT1, PCL1, PIR1
+GO:0045931	positive regulation of mitotic cell cycle	Biological Process	6	585	1.03%	22	6672	0.3297%	3.11	9.76e-03	9.86e-03	CDC14, SHA3, C7_03480W_A, CDC5, CLB2, DBF2
+GO:0031505	fungal-type cell wall organization	Biological Process	18	585	3.08%	114	6672	1.7086%	1.80	9.86e-03	9.86e-03	ENG1, PGA59, PMT1, CEK1, GSC1, KER1, PGA26, PMT4, CPH1, CRH11, CHT3, DCK1, FGR41, HAC1, PIR1, PGA13, LMO1, CWP419

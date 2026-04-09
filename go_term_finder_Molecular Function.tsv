@@ -1,0 +1,24 @@
+GOID	GO Term	Aspect	Query Count	Query Total	Query %	Background Count	Background Total	Background %	Fold Enrichment	P-value	FDR	Genes
+GO:0051119	sugar transmembrane transporter activity	Molecular Function	10	585	1.71%	25	6672	0.3747%	4.56	2.41e-05	2.78e-04	HGT12, ITR1, MAL31, HGT7, HGT19, HGT20, HGT1, HXT5, HGT13, HGT18
+GO:0015144	carbohydrate transmembrane transporter activity	Molecular Function	10	585	1.71%	25	6672	0.3747%	4.56	2.41e-05	2.78e-04	HGT12, ITR1, MAL31, HGT7, HGT19, HGT20, HGT1, HXT5, HGT13, HGT18
+GO:0016813	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines	Molecular Function	4	585	0.68%	4	6672	0.0600%	11.41	5.85e-05	3.49e-04	AGT1, CAR1, GBU1, C2_09810C_A
+GO:0022857	transmembrane transporter activity	Molecular Function	45	585	7.69%	285	6672	4.2716%	1.80	6.07e-05	3.49e-04	CDR3, ENA2, NGT1, HUT1, C4_04980W_A, HIP1, ZRT2, CTR1, C1_08610C_A, C3_05380W_A, HGT12, GPT1, PHO89, FTH1, JEN1, C3_00390W_A, DAL7, DAL9, CR_01220W_A, VCX1, C2_02580W_A, ITR1, C7_01510W_A, FCY2, XUT1, OPT3, MAL31, HGT7, HGT19, HGT20, HGT1, HXT5, HGT13, HGT18, MUP1, DAL4, FCY24, CR_03580C_A, TPO5, FUR4, HNM1, TPO3, C4_06140C_A, C2_02570W_A, ALP1
+GO:0005215	transporter activity	Molecular Function	46	585	7.86%	297	6672	4.4514%	1.77	8.13e-05	3.74e-04	CDR3, ENA2, NGT1, HUT1, C4_04980W_A, HIP1, ZRT2, CTR1, C1_08610C_A, C3_05380W_A, HGT12, GPT1, PHO89, FTH1, JEN1, C3_00390W_A, DAL7, DAL9, CR_01220W_A, VCX1, C2_02580W_A, ITR1, C7_01510W_A, FCY2, XUT1, OPT3, SEC14, MAL31, HGT7, HGT19, HGT20, HGT1, HXT5, HGT13, HGT18, MUP1, DAL4, FCY24, CR_03580C_A, TPO5, FUR4, HNM1, TPO3, C4_06140C_A, C2_02570W_A, ALP1
+GO:0055056	D-glucose transmembrane transporter activity	Molecular Function	8	585	1.37%	19	6672	0.2848%	4.80	1.05e-04	4.03e-04	HGT12, ITR1, HGT7, HGT19, HGT20, HGT1, HGT13, HGT18
+GO:0015149	hexose transmembrane transporter activity	Molecular Function	8	585	1.37%	20	6672	0.2998%	4.56	1.62e-04	5.32e-04	HGT12, ITR1, HGT7, HGT19, HGT20, HGT1, HGT13, HGT18
+GO:0005507	copper ion binding	Molecular Function	8	585	1.37%	21	6672	0.3147%	4.34	2.42e-04	6.26e-04	ZRT2, AMO2, SOD4, AMO1, COX17, CTR1, FET31, SOD6
+GO:0030527	structural constituent of chromatin	Molecular Function	6	585	1.03%	12	6672	0.1799%	5.70	2.58e-04	6.26e-04	C1_04180W_A, HHF22, HTA2, HHT2, CSE4, HHO1
+GO:0015205	nucleobase transmembrane transporter activity	Molecular Function	4	585	0.68%	5	6672	0.0749%	9.12	2.72e-04	6.26e-04	FCY2, XUT1, DAL4, FUR4
+GO:0015145	monosaccharide transmembrane transporter activity	Molecular Function	8	585	1.37%	22	6672	0.3297%	4.15	3.51e-04	6.87e-04	HGT12, ITR1, HGT7, HGT19, HGT20, HGT1, HGT13, HGT18
+GO:0016491	oxidoreductase activity	Molecular Function	47	585	8.03%	325	6672	4.8711%	1.65	3.59e-04	6.87e-04	PST2, POX1, PST1, CYB2, FMO1, FMO2, ARG5,6, FDH1, GOR1, C2_01630W_A, YMX6, FAD2, CR_04870C_A, AOX2, HQD2, AMO2, SOD4, AMO1, FET31, SOD6, FRE7, C1_08610C_A, CR_08920W_A, GTT13, YHB4, C6_03600C_A, OLE1, YHB5, CCP1, HMX1, MDH1, SOD3, C4_04720W_A, ZTA1, C6_03880W_A, C3_03470W_A, IFE2, C2_04480W_A, AHP2, C7_00430W_A, MSC7, FMA1, C2_06890C_A, GRE3, C1_11530C_A, ADH2, C2_00180C_A
+GO:0004553	hydrolase activity, hydrolyzing O-glycosyl compounds	Molecular Function	11	585	1.88%	41	6672	0.6145%	3.06	5.90e-04	1.04e-03	NGS1, NTH1, C5_04940W_A, AMS1, CHT1, CHT2, CHT3, ENG1, CRH11, SCW11, SCW4
+GO:0008483	transaminase activity	Molecular Function	6	585	1.03%	16	6672	0.2398%	4.28	1.65e-03	2.39e-03	UGA1, AAT21, UGA11, ARG8, CAR2, AAT1
+GO:0016769	transferase activity, transferring nitrogenous groups	Molecular Function	6	585	1.03%	16	6672	0.2398%	4.28	1.65e-03	2.39e-03	UGA1, AAT21, UGA11, ARG8, CAR2, AAT1
+GO:0016798	hydrolase activity, acting on glycosyl bonds	Molecular Function	11	585	1.88%	46	6672	0.6894%	2.73	1.66e-03	2.39e-03	NGS1, NTH1, C5_04940W_A, AMS1, CHT1, CHT2, CHT3, ENG1, CRH11, SCW11, SCW4
+GO:0004568	chitinase activity	Molecular Function	3	585	0.51%	4	6672	0.0600%	8.55	2.51e-03	3.39e-03	CHT1, CHT2, CHT3
+GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	Molecular Function	8	585	1.37%	31	6672	0.4646%	2.94	4.27e-03	5.46e-03	DAC1, HST1, AGT1, CAR1, GBU1, DAL1, C2_09810C_A, C2_08460C_A
+GO:0030247	polysaccharide binding	Molecular Function	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	7.68e-03	ENG1, PIR1
+GO:0015485	cholesterol binding	Molecular Function	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	7.68e-03	RBT4, RBE1
+GO:0072349	modified amino acid transmembrane transporter activity	Molecular Function	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	7.68e-03	C3_05380W_A, ALP1
+GO:0005350	pyrimidine nucleobase transmembrane transporter activity	Molecular Function	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	7.68e-03	DAL4, FUR4
+GO:0015210	uracil transmembrane transporter activity	Molecular Function	2	585	0.34%	2	6672	0.0300%	11.41	7.68e-03	7.68e-03	DAL4, FUR4
